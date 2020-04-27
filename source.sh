@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# github
 # git init
 # git checkout -b source
 git add archetypes content themes config.toml data \
